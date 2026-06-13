@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection
+# Credit-card-fraud-detection
+Predicting the fraudulent transaction in credit card transactions# Credit-Card-Fraud-Detection
